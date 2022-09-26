@@ -1,0 +1,24 @@
+img {
+    display: inline-block;
+    background: black;
+    padding: 1px;
+}
+.link0 {
+    color: red;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    padding: 15px;
+    display: inline-block;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+p {
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+body {
+    background-color: red;
+}
