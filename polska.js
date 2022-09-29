@@ -3,7 +3,7 @@ const changecolor = () =>{
         document.body.style.color = 'white';
     }
     else if(document.body.style.color === 'white'){
-        document.body.style.color = 'yellow';
+        document.body.style.color = 'red';
     }
     else{
         document.body.style.color = 'black';

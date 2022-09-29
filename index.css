@@ -2,22 +2,32 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: yellow;
 }
-
-a {
+h1 {
     text-align: center;
+}
+a {
     border-radius: 30px;
     padding: 10px;
     background-color:blanchedalmond;
     display: inline-block;
 }
 .u {
+    margin-left: 50%;
     color: turquoise;
     margin-bottom: 10px;
 }
 .p {
+    margin-left: 50%;
     color: red;
     margin-bottom: 10px;
 }
 img {
     margin-top: 10px;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.D{
+    text-align: center;
 }
